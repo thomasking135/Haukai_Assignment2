@@ -32,7 +32,7 @@ To create a site which is accessible for those with disabilities, strong colours
 
 d)
 
-<img src ="thomasking135/Haukai_Assignment2/pictures/privacygeneratorstatement.png" width=800>
+<img src ="pictures/privacygeneratorstatement.PNG" width=800>
 
 e) Identify and discuss:
 
@@ -77,7 +77,7 @@ Part B
 
 a) Use of Git Hub and Repository Screenshots
 
-  <img src="pictures/repository screenshot.png" width=800> 
-    <img src="pictures/repositorygithub.png" width=800> 
+  <img src="pictures/repository screenshot.PNG" width=800> 
+    <img src="pictures/repositorygithub.PNG" width=800> 
     
-     <img src="pictures/githubrepository.png" width=800> 
+     <img src="pictures/githubrepository.PNG" width=800> 
