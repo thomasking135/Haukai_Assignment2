@@ -32,7 +32,7 @@ To create a site which is accessible for those with disabilities, strong colours
 
 d)
 
-    <img src="pictures/privacystatementgenerator.PNG" width="400px height=200px"</img> 
+    <img src="pictures/privacygeneratorstatement.PNG" width="400px height=200px"</img> 
 
 
 e) Identify and discuss:
@@ -77,3 +77,8 @@ There are also invaluable storage and security advantages provided by CDNs. CDNs
 Part B
 
 a) Use of Git Hub and Repository Screenshots
+
+  <img src="pictures/repository screenshot.PNG" width="400px height=200px"</img> 
+    <img src="pictures/repositorygithub.PNG" width="400px height=200px"</img> 
+    
+     <img src="pictures/githubrepository.PNG" width="400px height=200px"</img> 
