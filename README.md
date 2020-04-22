@@ -32,7 +32,7 @@ To create a site which is accessible for those with disabilities, strong colours
 
 d)
 <div align="center">
-    <img src="Haukai_Assignment2/pictures/privacystatementgenerator" width="400px"</img> 
+    <img src="pictures/privacystatementgenerator.png" width="400px"</img> 
 </div>
 
 e) Identify and discuss:
