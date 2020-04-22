@@ -1,6 +1,6 @@
 My Haukai Website Project
 
-Here's the link: https://thomasking135.github.io/thomasking135-github.io/
+Here's the link: 
 
 My assignment
 
@@ -32,7 +32,7 @@ To create a site which is accessible for those with disabilities, strong colours
 
 d)
 
-    ![](pictures/privacygeneratorstatement.png) 
+    <center><img src ="pictures/privacygeneratorstatement.PNG" width=800></center>
 
 
 e) Identify and discuss:
