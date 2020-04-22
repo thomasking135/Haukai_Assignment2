@@ -31,9 +31,9 @@ The form itself has been designed for accessibility with clearly defined labels 
 To create a site which is accessible for those with disabilities, strong colours have been used and descriptions of content have been provided where possible. The font has been set at a readable size. Images and links have been created at a larger clickable size to ensure clarity of choice and the text employed has kept simple for users with learning disabilities and for those whom do not want to be bombarded with overly wordy descriptions. Descriptions to links have also been supplied. 
 
 d)
-<div align="center">
-    <img src="pictures/privacystatementgenerator.png" width="400px"</img> 
-</div>
+
+    <img src="pictures/privacystatementgenerator.png" width="400px height=200px"</img> 
+
 
 e) Identify and discuss:
 
