@@ -32,8 +32,7 @@ To create a site which is accessible for those with disabilities, strong colours
 
 d)
 
-    <center><img src ="pictures/privacygeneratorstatement.png" width=800></center>
-
+<img src ="pictures/privacygeneratorstatement.png" width=800>
 
 e) Identify and discuss:
 
@@ -78,7 +77,7 @@ Part B
 
 a) Use of Git Hub and Repository Screenshots
 
-  <img src="pictures/repository screenshot.png"> 
-    <img src="pictures/repositorygithub.png"> 
+  <img src="pictures/repository screenshot.png" width=800> 
+    <img src="pictures/repositorygithub.png" width=800> 
     
-     <img src="pictures/githubrepository.png"> 
+     <img src="pictures/githubrepository.png" width=800> 
