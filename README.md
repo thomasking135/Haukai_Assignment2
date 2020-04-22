@@ -32,7 +32,7 @@ To create a site which is accessible for those with disabilities, strong colours
 
 d)
 
-    <img src="pictures/privacygeneratorstatement.png"> 
+    ![](pictures/privacygeneratorstatement.png) 
 
 
 e) Identify and discuss:
