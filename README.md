@@ -1,7 +1,7 @@
 My Haukai Website Project
 
 Here's the link: 
-https://Haukai_Assignment2.io
+https://www.Haukai_Assignment2.io
 
 My assignment
 
