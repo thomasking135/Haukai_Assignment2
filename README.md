@@ -11,7 +11,7 @@ b. The code has been attached in a zipped file for the marker's inspection. It c
 
 Here are the results from the developer tools test applied to the CSS.
 
-<img src="pictures/githubprofile.png" width="800"> 
+<img src="pictures/cssreport.png" width="800"> 
 
 c. Accessibility Steps Taken
 
