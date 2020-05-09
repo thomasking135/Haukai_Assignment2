@@ -78,10 +78,10 @@ Part B
 
 a) Use of Git Hub and Repository Screenshots
 
-  <img src="pictures/repository screenshot.PNG" width=800> 
-    <img src="pictures/repositorygithub.PNG" width=800> 
+  <img src="pictures/githubprofile.PNG" width=800> 
+    <img src="pictures/githubproject.PNG" width=800> 
     
-  <img src="pictures/githubrepository.PNG" width=800> 
+  <img src="pictures/githubrepositorythomas.PNG" width=800> 
   
   b.	Apply responsive design principles to make the web application mobile-ready. You should document in your README file what principles were applicable and how you applied them in your implementation.  
 
