@@ -97,4 +97,4 @@ The SEO is something that could have been improved.
 
 Here are the results of Google’s mobile-friendly test which was conducted to test the site for mobile friendliness (https://search.google.com/test/mobile-friendly).  
 
- <img src="pictures/repository mobilefriendly.PNG" width=800> 
+ <img src="pictures/mobilefriendly.PNG" width=800> 
