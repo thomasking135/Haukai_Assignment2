@@ -93,7 +93,8 @@ Ease of clicking texts were conducted across my devices and efforts were taken t
 
 The layout of the site was kept simple to deal with the mobile user in mind and their desire to find what they want quickly. Access to the menu and to all pages can be clearly found in the navigation bar and users can quickly navigate back to the home page or other pages as they wish. Appropriate headings have been used to compartmentalise information accordingly further assisting users to find what they are looking for quickly and efficiently.
 
-The SEO is something that could have been improved. 
+The SEO is something that could have been improved along with the possible use of the Bootstrap framework. However, efforts to improve responsive design included the use of containers and responsive menus to improve the layout of the site making it more user friendly for users across a variety of platforms. The W3 frameworks assisted with the simplification and improvement of the overall responsive design of the site. 
+
 
 Here are the results of Google’s mobile-friendly test which was conducted to test the site for mobile friendliness (https://search.google.com/test/mobile-friendly).  
 
