@@ -108,3 +108,13 @@ The viewpoint was also set to ensure the site functioned across multiple devices
 Here are the results of Google’s mobile-friendly test which was conducted to test the site for mobile friendliness (https://search.google.com/test/mobile-friendly).  
 
  <img src="pictures/mobilefriendly.PNG" width=800> 
+ 
+c) Trailing Spaces (screenshot here)
+
+ <img src="pictures/trailingspaces.PNG" width=800> 
+ 
+d) The primary ways I have attempted to improve the loading times of my web pages is through proper formatting and the optimisation of graphic images. All images have been compressed using Tiny PNG. I’ve tried to avoid the insertion of inline JS and CSS code into the pages of my site and I have tried to create a simple functional CSS page. The use a CDN for delivering static assets can also improve loading times for a website. I have tried to get all pages to load at an ideal 2 seconds and no longer than 3 seconds given the tendency of user interests in a site to increasingly fall with poor performing and slow to upload websites. 
+speeds. 
+
+ <img src="pictures/websitespeed.PNG" width=800> 
+
