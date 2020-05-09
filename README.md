@@ -95,6 +95,8 @@ The layout of the site was kept simple to deal with the mobile user in mind and 
 
 The SEO is something that could have been improved along with the possible use of the Bootstrap framework. However, efforts to improve responsive design included the use of containers and responsive menus to improve the layout of the site making it more user friendly for users across a variety of platforms. The W3 frameworks assisted with the simplification and improvement of the overall responsive design of the site. 
 
+The viewpoint was also set to ensure the site functioned across multiple devices to ensure it was optimised for reading. The images were also made responsive according to the device the viewer was using.
+
 
 Here are the results of Google’s mobile-friendly test which was conducted to test the site for mobile friendliness (https://search.google.com/test/mobile-friendly).  
 
